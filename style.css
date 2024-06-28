@@ -67,8 +67,8 @@ div.container {
 }
 
 #exibicaomain{
-  width: auto;
-  over-flow: hidden;
+  width: auto !important;
+  overflow: hidden !important;
 }
 
 
