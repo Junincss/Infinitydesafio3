@@ -8,7 +8,8 @@ function exibirbanking() {
   switch (valueoption) {
     
     case 1:
-      exibirsaldo
+      exibirsaldo;
+      operacao.innerHTML = '';
       break;
 
     case 2:
