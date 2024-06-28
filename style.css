@@ -78,7 +78,7 @@ div.container {
 
 
 #exibicao {
-  font-size: 3vmax;
+  font-size: 3vmin;
   overflow-wrap: break-word;
   transition: transform 3.9s ease-in-out;
 }
