@@ -66,6 +66,13 @@ div.container {
   border:none;
 }
 
+#exibicaomain{
+  width: auto;
+  over-flow: hidden;
+}
+
+
 #exibicao {
   transition: transform 3.9s ease-in-out;
 }
+
